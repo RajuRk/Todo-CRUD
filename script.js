@@ -58,6 +58,7 @@ async function addUser(){
                         "Content-Type": "application/json"
                     }
                  });
+                 displayUsers();
 }
 
 
